@@ -1,0 +1,48 @@
+﻿@model List<TicketShop.Web.Models.Domain.Ticket>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div class="container">
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Tickets" asp-action="Create">Add new Movie</a>
+    </div>
+
+    @for (int j = 0; j < Model.Count; j++)
+    {
+        var item = Model[j];
+
+        if(j % 3 == 0)
+        {
+            @:<div class="row">
+        }
+        
+        <div class="col-md-3 m-4">
+            <div class="card" style="width: 18rem; height: 35rem;">
+                <img class="card-img-top" src="@item.TicketImage" alt="Image for Movie!">
+                <div class="card-body">
+                    <h5 class="card-title">@item.TicketName</h5>
+                    <p class="card-text">@item.TicketDescription</p>
+                </div>
+                <div class="card-footer">
+                    <a asp-controller="Tickets" asp-action="AddTicketToCard" asp-route-id="@item.Id" class="btn btn-info">Add to card</a>
+                    <a asp-controller="Tickets" asp-action="Edit" class="btn btn-secondary" asp-route-id="@item.Id">Edit</a>
+                    <a asp-controller="Tickets" asp-action="Delete" class="btn btn-secondary" asp-route-id="@item.Id">Delete</a>
+                </div>
+            </div>
+        </div>
+        
+        if (j % 3 == 2)
+        {
+            @:</div>
+        }
+
+    }
+</div>

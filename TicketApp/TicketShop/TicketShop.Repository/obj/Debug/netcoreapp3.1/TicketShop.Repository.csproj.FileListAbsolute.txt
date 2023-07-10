@@ -1,0 +1,13 @@
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.AssemblyReference.cache
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.AssemblyInfoInputs.cache
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.AssemblyInfo.cs
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.CoreCompileInputs.cache
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.deps.json
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.dll
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.pdb
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.CopyComplete
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.dll
+E:\Finki\10\IS\Homework1\TicketApp\TicketShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.pdb
